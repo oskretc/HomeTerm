@@ -68,6 +68,8 @@ Your TermPage file structure is stored in your browsers LocalStorage, if you enc
 - ~~Tree view for `ls`, and url view for `ls`~~
 - ~~Add flags for search to change search engine~~
 - Tab complete for commands and paths
+- ln command to add alias
+- Alias to build commands e.g. alias gs="search -e google"
 
 ### Themes
 
