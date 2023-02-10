@@ -70,6 +70,8 @@ Your TermPage file structure is stored in your browsers LocalStorage, if you enc
 - Tab complete for commands and paths
 - ln command to add alias
 - Alias to build commands e.g. alias gs="search -e google"
+- search command should take prahses without having to use quotes
+- if no command found and address, open it the adress in new page
 
 ### Themes
 
